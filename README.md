@@ -1,2 +1,5 @@
 # hello-world
-The first repository
+
+Dear Humans,
+
+Don't do anything stupid.
